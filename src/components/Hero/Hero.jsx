@@ -50,7 +50,9 @@ const Hero = () => {
         >
           Where Visionary Entrepreneurs
           <br />
-          Build Africa's Future
+           <span className="text-yellow-500">
+           Build Africa's Future
+           </span>
         </motion.h1>
 
         {/* Description */}
